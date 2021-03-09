@@ -1,4 +1,4 @@
-Hello, My Friends  
+Hello, Friends  
 Thank you for having interest in this repository ! 
 
 To use this application, 
@@ -10,5 +10,5 @@ To use this application,
 
 Use " npm run dev " to start the application.
 
-This is the project made by my team in Hackathon3077. It is actually a website for disable peoples where they can find jobs according to their capabilities.
+This is the project made by my team in Mackathon3077using MERN stack. It is actually a website for disable peoples where they can find jobs according to their capabilities and also allows them to connect with the NGOs working for there welfare and helping them improve there skills.
 
