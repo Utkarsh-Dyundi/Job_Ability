@@ -46,7 +46,8 @@ function RegisterPage(props) {
         name: '',
         disability: '',
         password: '',
-        confirmPassword: ''
+        confirmPassword: '',
+        contact: ''
       }}
       validationSchema={Yup.object().shape({
         name: Yup.string()

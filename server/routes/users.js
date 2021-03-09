@@ -15,6 +15,7 @@ router.get("/auth", auth, (req, res) => {
         isAuth: true,
         email: req.user.email,
         name: req.user.name,
+        contact: req.user.contact,
         lastname: req.user.lastname,
         disability: req.user.disability,
         role: req.user.role,
